@@ -13,6 +13,7 @@ Starship, the infinitely customizable cross-platform prompt.\
 Now some of these have dependencies which you like, need, to install. So let me list them.
 ### Hyprland Dependencies
 - `waybar`
+- `dunst`
 - `kitty`, the terminal emulator.
 - `rofi-wayland`
 - `rofimoji`. This is an emoji keyboard.
