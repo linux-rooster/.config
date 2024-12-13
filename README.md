@@ -47,7 +47,7 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 
 <details>
 
-![aio](screenshots/aio.png)
+![aio](screenshots/aio2.png)
 
 </details>
 
