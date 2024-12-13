@@ -1,0 +1,27 @@
+# get completions
+"$schema" = 'https://starship.rs/config-schema.json'
+format = """
+[┌───── ](bold  #8ec07c)[$username](bold)[ at ]()[$directory](bold)[$git_branch]()
+[└─ ](bold  #8ec07c)[$character](bold)
+"""
+add_newline = false
+
+[directory]
+style = 'bold   #d8a657'
+
+[character]
+# ❭
+success_symbol = '[❭](bold #7daea3)'
+error_symbol = '[❭](bold #ea6962)'
+
+[username]
+style_user = 'bold #d3869b'
+style_root = 'bold #ea6962'
+format = '[$user](bold #d3869b)'
+show_always = true
+
+[git_branch]
+style = '#6e738d'
+format = 'on [$git_branch](bold)'
+[package]
+disabled = true
