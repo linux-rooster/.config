@@ -42,3 +42,11 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ![nvim](screenshots/neovim.png)
   
 </details>
+
+### Neofetch + Kitty + Starship + Fish
+
+<details>
+
+![aio](screenshots/aio.png)
+
+</details>
