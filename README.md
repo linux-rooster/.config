@@ -58,3 +58,11 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ![bruh im too lazy to add an alt text](screenshots/rofi.png)
   
 </details>
+
+### Dunst
+
+<details>
+
+![s](screenshots/dunst.png)
+  
+</details>
