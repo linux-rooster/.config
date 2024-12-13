@@ -43,7 +43,7 @@ This isn't really a dependency but you WILL need to install it. This is the plug
   
 </details>
 
-### Neofetch + Kitty + Starship + Fish
+### Kitty + Starship + Fish
 
 <details>
 
