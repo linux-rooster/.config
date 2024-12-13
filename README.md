@@ -31,7 +31,9 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ![hypr](screenshots/hypr.png)
 
 </details>
+
 ### Neovim
+
 <details>
 
 ![neovim](screenshots/nvim.png)
