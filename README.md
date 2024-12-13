@@ -50,3 +50,11 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ![aio](screenshots/aio.png)
 
 </details>
+
+### Rofi
+
+<details>
+
+![bruh im too lazy to add an alt text](screenshots/rofi.png)
+  
+</details>
