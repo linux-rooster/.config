@@ -24,7 +24,7 @@ Now some of these have dependencies which you like, need, to install. So let me 
 ### Neovim
 This isn't really a dependency but you WILL need to install it. This is the plugin manager, Packer. You can see the install instructions on their GitHub page.
 ## Screenshots:
-### Hyprland and Waybar
+### <summary>Hyprland and Waybar</summary>
 <details>
 
 ![hyprway](screenshots/hyprland.png)
