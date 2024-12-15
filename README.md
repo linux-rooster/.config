@@ -4,6 +4,7 @@ There's many things here.\
 Dunst, a notification service.\
 Hyprland, a tiling window manager.\
 Waybar, a status bar for Wayland compositors.\
+GTK, themes and other stuff for GTK apps.\
 Fish, a customizable "friendly interactive" shell.\
 Kitty, a terminal emulator.\
 Rofi, an app launcher. Wayland users like me, install `rofi-wayland`.\
