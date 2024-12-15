@@ -21,7 +21,7 @@ Now some of these have dependencies which you like, need, to install. So let me 
 - `thunar`, This is a file manager, the best one IMO.
 - `papirus-icon-theme`. THis is mainly for Rofi.
 - `swww`, a wallpaper utility.
-- `wlogout`, a logout menu for Wayland.
+- `rofi-power-menu`
 - `wl-clipboard`, to handle copying and pasting.
 - `grim` and `slurp`, which are screenshotting tools.
 ### Neovim
@@ -30,8 +30,8 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ### <summary>Hyprland and Waybar</summary>
 <details>
 
-![hyprway](screenshots/hyprland.png)
-![hypr](screenshots/hypr.png)
+![hyprway](screenshots.png)
+![hypr](screenshots.png)
 
 </details>
 
