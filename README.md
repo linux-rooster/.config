@@ -44,7 +44,7 @@ This isn't really a dependency but you WILL need to install it. This is the plug
   
 </details>
 
-### Kitty + Starship + Fish
+### Kitty + Starship
 
 <details>
 
@@ -56,7 +56,7 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 
 <details>
 
-![bruh im too lazy to add an alt text](screenshots/rofi.png)
+![bruh im too lazy to add an alt text](screenshots/rofi1.png)
   
 </details>
 
