@@ -1,1 +1,12 @@
+configuration {
+    display-ssh:    "";
+    display-run:    "";
+    display-drun:   "󰍉";
+    display-window: "";
+    display-combi:  "";
+    show-icons:     true;
+	icon-theme: "Papirus";
+	font: "JetBrainsMonoNL Nerd Font 12";
+}
 
+@theme "~/.config/rofi/gruvbox-material.rasi"
