@@ -29,8 +29,8 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ### <summary>Hyprland and Waybar</summary>
 <details>
 
-![hyprway](screenshots/hyprland.png)
-![hypr](screenshots/hypr.png)
+![hyprway](screenshots/hyprland.2png)
+![hypr](screenshots/hypr.png2)
 
 </details>
 
