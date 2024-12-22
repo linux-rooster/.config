@@ -47,6 +47,7 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ### Kitty + Starship
 
 <details>
+The shell here is `fish` by the way.
 
 ![aio](screenshots/aio2.png)
 
