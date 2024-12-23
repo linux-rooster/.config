@@ -71,6 +71,7 @@ The shell here is `fish` by the way.
 
 ### Fastfetch
 <details>
+The CPU module's text is hardcoded, so you will need to remove the "format": line in the CPU module in order to display your system's CPU.
 
 ![fastfetch](screenshots/fastfetch.png)
 
