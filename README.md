@@ -7,6 +7,7 @@ Waybar, a status bar for Wayland compositors.\
 GTK, themes and other stuff for GTK apps.\
 Kitty, a terminal emulator.\
 Rofi, an app launcher. Wayland users like me, install `rofi-wayland`.\
+Fastfetch, a terminal fetch program.\
 Neovim, a text editor.\
 And finally....\
 Starship, the infinitely customizable cross-platform prompt.\
@@ -67,3 +68,7 @@ The shell here is `fish` by the way.
 ![s](screenshots/dunst.png)
   
 </details>
+
+### Fastfetch
+
+![fastfetch](screenshots/fastfetch.png)
