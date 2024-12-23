@@ -56,7 +56,7 @@ The shell here is `fish` by the way.
 
 <details>
 
-![bruh im too lazy to add an alt text](screenshots/rofi1.png)
+![bruh im too lazy to add an alt text](screenshots/rofi.png)
   
 </details>
 
