@@ -20,7 +20,6 @@ Now some of these have dependencies which you like, need, to install. So let me 
 - `thunar`, This is a file manager, the best one IMO.
 - `papirus-icon-theme`. THis is mainly for Rofi.
 - `swww`, a wallpaper utility.
-- `nm-applet`, a program displayed in the tray that manages network connections.
 - `rofi-power-menu`
 - `wl-clipboard`, to handle copying and pasting.
 - `grim` and `slurp`, which are screenshotting tools.
