@@ -70,5 +70,8 @@ The shell here is `fish` by the way.
 </details>
 
 ### Fastfetch
+<details>
 
 ![fastfetch](screenshots/fastfetch.png)
+
+</details>
