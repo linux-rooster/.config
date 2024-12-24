@@ -39,7 +39,7 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 
 <details>
 
-![neovim](screenshots/nvim.png)
+![neovim](screenshots/nvim1.png)
 ![nvim](screenshots/neovim.png)
   
 </details>
