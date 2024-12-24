@@ -30,8 +30,8 @@ This isn't really a dependency but you WILL need to install it. This is the plug
 ### <summary>Hyprland and Waybar</summary>
 <details>
 
-![hyprway](screenshots/hyprland.p2ng)
-![hypr](screenshots/hypr.png2)
+![hyprway](screenshots/hypr.png)
+![hypr](screenshots/hyprland.png)
 
 </details>
 
